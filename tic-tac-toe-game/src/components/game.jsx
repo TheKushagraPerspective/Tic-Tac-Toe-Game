@@ -95,7 +95,7 @@ const Game = () => {
         <>
             <div className='h-screen flex flex-col items-center justify-center bg-gray-900 text-white'>
                 {/* Title */}
-                <h1 className="text-3xl font-bold mb-10 text-blue-400 shadow-lg">
+                <h1 className="text-3xl font-bold mb-10 text-blue-400 shadow-lg text-center">
                     Tic-Tac-Toe Game using ReactJS
                 </h1>
 
